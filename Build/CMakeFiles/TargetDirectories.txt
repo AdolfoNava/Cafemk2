@@ -1,0 +1,15 @@
+C:/Users/Valenti/build/Cafemk1/build/CMakeFiles/demo.dir
+C:/Users/Valenti/build/Cafemk1/build/CMakeFiles/demo-test.dir
+C:/Users/Valenti/build/Cafemk1/build/CMakeFiles/INSTALL.dir
+C:/Users/Valenti/build/Cafemk1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Valenti/build/Cafemk1/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/CMakeFiles/INSTALL.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googlemock/CMakeFiles/INSTALL.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googlemock/CMakeFiles/gmock.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googletest/CMakeFiles/gtest.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googletest/CMakeFiles/INSTALL.dir
+C:/Users/Valenti/build/Cafemk1/build/googletest/googletest/CMakeFiles/ALL_BUILD.dir
